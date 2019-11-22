@@ -1,0 +1,5 @@
+DEFINE final_project ./final_project
+DEFINE bg_ref ./bg_ref
+DEFINE ldo ./ldo
+DEFINE pga ./pga
+DEFINE sar_adc ./sar_adc
