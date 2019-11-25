@@ -1,0 +1,3 @@
+projectDir = '"./Sim"
+designInfo = '("pga" "pga_opamp_wrapper_zz" "schematic" "spectre")
+descriptionText = "None"
