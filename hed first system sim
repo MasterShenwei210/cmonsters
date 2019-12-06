@@ -1,0 +1,79 @@
+[33mcommit 471273b73d4e2e58e128d38a1abcd372e13c8c68[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Class Account <ee140-aax@eda-3.EECS.Berkeley.EDU>
+Date:   Sun Dec 1 20:41:49 2019 -0800
+
+    finished first system sim
+
+[33mcommit 1f444cb4992f2654357ae742707913c235505cb0[m
+Author: Class Account <ee140-aax@eda-3.EECS.Berkeley.EDU>
+Date:   Wed Nov 27 00:19:49 2019 -0800
+
+    still working on final integration LMAA0OAOAOAOAOAOAOAO
+
+[33mcommit b28e524487ccafcdf44dcb87d12ed2a9be4f0f68[m
+Author: Class Account <ee140-aax@eda-3.EECS.Berkeley.EDU>
+Date:   Sun Nov 24 22:48:25 2019 -0800
+
+    finished pga framework
+
+[33mcommit df7bc7f947b283efe886745d529e26fdd2479738[m
+Merge: 90d01f8 4694064
+Author: Class Account <ee140-aax@c125m-6.EECS.Berkeley.EDU>
+Date:   Sun Nov 24 17:21:40 2019 -0800
+
+    Merge branch 'master' of https://github.com/MasterShenwei210/cmonsters
+
+[33mcommit 90d01f803ef1103783dacf2f322280f5837734af[m
+Author: Class Account <ee140-aax@c125m-6.EECS.Berkeley.EDU>
+Date:   Sun Nov 24 17:21:35 2019 -0800
+
+    lets get this bread
+
+[33mcommit 469406438b5860f7a013e88a316fd486e7f029d6[m
+Author: Class Account <ee140-aaf@eda-3.EECS.Berkeley.EDU>
+Date:   Fri Nov 22 15:30:30 2019 -0800
+
+    added semi-ideal bgt
+
+[33mcommit 44e3417ecde103226f876176066531b43c8a866d[m
+Author: Class Account <ee140-aax@c125m-6.EECS.Berkeley.EDU>
+Date:   Fri Nov 22 15:03:36 2019 -0800
+
+    things
+
+[33mcommit 49a53287ac6976f5300b7071707c715ebaba5bf8[m
+Author: Class Account <ee140-aaf@eda-4.EECS.Berkeley.EDU>
+Date:   Fri Nov 22 15:02:59 2019 -0800
+
+    added gitignore cdslck
+
+[33mcommit 970803bae47c1ab04987608da3b7486508e2fd10[m
+Author: Class Account <ee140-aaf@eda-4.EECS.Berkeley.EDU>
+Date:   Fri Nov 22 14:59:47 2019 -0800
+
+    bgt symbol and ideal schematic
+
+[33mcommit f3a579b2b3486621a7bbf216eb5049c8da9fac1c[m
+Merge: d20766d 17b5f85
+Author: Class Account <ee140-aax@c125m-6.EECS.Berkeley.EDU>
+Date:   Fri Nov 22 14:55:46 2019 -0800
+
+    Merge branch 'master' of https://github.com/MasterShenwei210/cmonsters
+
+[33mcommit d20766d709230a468e54e9581acacd8a61f9f576[m
+Author: Class Account <ee140-aax@c125m-6.EECS.Berkeley.EDU>
+Date:   Fri Nov 22 14:55:39 2019 -0800
+
+    ideal op amp
+
+[33mcommit 17b5f85622ee731dd83bfa168ad03bbeb3d1e2fc[m
+Author: Class Account <ee140-aat@eda-3.EECS.Berkeley.EDU>
+Date:   Fri Nov 22 14:48:29 2019 -0800
+
+    ldo cell view init
+
+[33mcommit 753bf62dc6dde92ea3743e99eb7c81f14d9dade9[m
+Author: Class Account <ee140-aax@c125m-6.EECS.Berkeley.EDU>
+Date:   Fri Nov 22 14:15:25 2019 -0800
+
+    initial commit. lets get this bread
