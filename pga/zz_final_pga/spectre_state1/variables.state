@@ -34,7 +34,7 @@ tmp4 = make_sevVariableStruct()
 tmp4 = (ncons nil)
 )
 tmp4->name = "B0"
-tmp4->expression = "0"
+tmp4->expression = "1.25"
 tmp4->index = 4
 (unless tmp5
 tmp5 = make_sevVariableStruct()
@@ -43,7 +43,7 @@ tmp5 = make_sevVariableStruct()
 tmp5 = (ncons nil)
 )
 tmp5->name = "B1"
-tmp5->expression = "1.25"
+tmp5->expression = "0"
 tmp5->index = 5
 (unless tmp6
 tmp6 = make_sevVariableStruct()
@@ -61,7 +61,7 @@ tmp7 = make_sevVariableStruct()
 tmp7 = (ncons nil)
 )
 tmp7->name = "VIN"
-tmp7->expression = "200m"
+tmp7->expression = "100m"
 tmp7->index = 7
 list(tmp1 tmp2 tmp3 tmp4 tmp5 tmp6 tmp7)
 )
