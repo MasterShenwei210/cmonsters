@@ -24,12 +24,12 @@ filter_res \
 	 -merge_parallel_res false \
 	 -min_res 0.001
 input_db -type assura \
-	 -design_cell_name "100k layout bg_ref" \
+	 -design_cell_name "1k layout bg_ref" \
 	 -directory_name "/home/cc/ee140/fa19/class/ee140-aax/ee140/cadence/AssuraLVS" \
 	 -format "DFII" \
-	 -run_name "100k_LVS"
+	 -run_name "1k_LVS"
 log_file \
-	 -file_name "/home/cc/ee140/fa19/class/ee140-aax/ee140/cadence/AssuraLVS/qrc.100k_LVS.log"
+	 -file_name "/home/cc/ee140/fa19/class/ee140-aax/ee140/cadence/AssuraLVS/qrc.1k_LVS.log"
 mos_diffusion_parameter_extraction \
 	 -res "fast"
 output_db -type extracted_view \
@@ -45,7 +45,7 @@ output_db -type extracted_view \
 	 -view_name "analog_extracted"
 output_setup \
 	 -directory_name "/home/cc/ee140/fa19/class/ee140-aax/ee140/cadence/AssuraLVS" \
-	 -temporary_directory_name "100k_LVS"
+	 -temporary_directory_name "1k_LVS"
 process_technology \
 	 -technology_corner \
 		"default" \
