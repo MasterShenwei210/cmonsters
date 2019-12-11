@@ -1,4 +1,4 @@
-//Revision 3
+//Revision 4
 //NOTE
 // Default template for spectre
 // Note:
@@ -14,11 +14,11 @@ viewlist spectre, cmos_sch, \cmos.sch , schematic, veriloga, ahdl, pspice, dspf;
 stoplist spectre;
 
 
-cell bg_ref.\13p5k  binding :schematic;
-cell bg_ref.\19p6k  binding :schematic;
-cell bg_ref.\23p25k  binding :schematic;
-cell bg_ref.\266p799k  binding :schematic;
-cell bg_ref.\4p584k  binding :schematic;
+cell bg_ref.\13p5k  binding :analog_extracted;
+cell bg_ref.\19p6k  binding :analog_extracted;
+cell bg_ref.\23p25k  binding :analog_extracted;
+cell bg_ref.\266p799k  binding :analog_extracted;
+cell bg_ref.\4p584k  binding :analog_extracted;
 
 
 endconfig
