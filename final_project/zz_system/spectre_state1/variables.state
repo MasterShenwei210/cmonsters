@@ -70,7 +70,7 @@ tmp8 = make_sevVariableStruct()
 tmp8 = (ncons nil)
 )
 tmp8->name = "S_1"
-tmp8->expression = "0"
+tmp8->expression = "1"
 tmp8->index = 8
 (unless tmp9
 tmp9 = make_sevVariableStruct()
@@ -79,7 +79,7 @@ tmp9 = make_sevVariableStruct()
 tmp9 = (ncons nil)
 )
 tmp9->name = "S_0"
-tmp9->expression = "0"
+tmp9->expression = "1"
 tmp9->index = 9
 (unless tmp10
 tmp10 = make_sevVariableStruct()
@@ -97,7 +97,7 @@ tmp11 = make_sevVariableStruct()
 tmp11 = (ncons nil)
 )
 tmp11->name = "G_2"
-tmp11->expression = "1"
+tmp11->expression = "0"
 tmp11->index = 11
 (unless tmp12
 tmp12 = make_sevVariableStruct()
@@ -106,7 +106,7 @@ tmp12 = make_sevVariableStruct()
 tmp12 = (ncons nil)
 )
 tmp12->name = "G_1"
-tmp12->expression = "1"
+tmp12->expression = "0"
 tmp12->index = 12
 (unless tmp13
 tmp13 = make_sevVariableStruct()
@@ -115,7 +115,7 @@ tmp13 = make_sevVariableStruct()
 tmp13 = (ncons nil)
 )
 tmp13->name = "G_0"
-tmp13->expression = "1"
+tmp13->expression = "0"
 tmp13->index = 13
 list(tmp1 tmp2 tmp3 tmp4 tmp5 tmp6 tmp7 tmp8 tmp9 tmp10 tmp11 tmp12 tmp13)
 )

@@ -1,0 +1,3 @@
+projectDir = '"./Sim"
+designInfo = '("bg_ref" "bg_tb" "schematic" "spectre")
+descriptionText = "None"
