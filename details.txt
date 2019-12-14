@@ -1,0 +1,5 @@
+we need a total of 15us to start up
+
+2 Ohm
+
+top level testbench is final_project/zz_EE140_Fa19_system
